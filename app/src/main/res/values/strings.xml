@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cadastro de Clientes</string>
+    <string name="titulo_login">Tela login - Jonata Pereira</string>
+    <string name="titulo_cadastro">Cadastro de Clientes</string>
+    <string name="titulo_listar_clientes">Lista de Clientes</string>
+    <string name="nome">Nome</string>
+    <string name="matricula">Matrícula</string>
+    <string name="endereço">Endereço</string>
+    <string name="numero">Número</string>
+    <string name="complemento">Complemento</string>
+    <string name="Cidade">Cidade</string>
+    <string name="login">Login</string>
+    <string name="senha">Senha</string>
+    <string name="btnAcessar">Acessar</string>
+    <string name="btnGravar">Gravar</string>
+</resources>
